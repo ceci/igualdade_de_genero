@@ -1,5 +1,5 @@
 .reveal .cover h1{
-	font-size: 5em;
+	font-size: 4.5em;
 }
 
 .reveal .cover h2 {
@@ -17,7 +17,7 @@
 .reveal .whoAmI a {
 	display: block;
 	clear: both;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgba(0,0,0, 0.4);
 }
 
 .reveal .whoAmI a:hover {

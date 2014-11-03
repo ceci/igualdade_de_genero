@@ -9,8 +9,8 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #660066;
-  background-color: #660066; }
+  background: #ffaa66;
+  background-color: #ffaa66; }
 
 .reveal {
   font-family: "Open Sans", sans-serif;
@@ -34,7 +34,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #ffeeff;
+  color: #333;
   font-family: "Montserrat", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: -0.03em;
