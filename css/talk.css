@@ -1,11 +1,15 @@
 .reveal .cover h1{
 	font-size: 4.5em;
 }
-
 .reveal .cover h2 {
 	margin-top: -0.2em;
 	font-size: 4em;
 	margin-bottom: 0.5em;
+}
+.reveal .cover h4 {
+	text-align: center;
+	font-family: inherit;
+	font-size: 1.5em;
 }
 
 .reveal .whoAmI {
@@ -24,13 +28,6 @@
 	color: rgba(0, 0, 0, 0.8);
 }
 
-.reveal .end.whoAmI a {
-	color: #0000AA;
-}
-.reveal .end.whoAmI a:hover {
-	color: #2222CC;
-}
-
 .reveal .whoAmI #twLogo {
 	margin-top: 1em;
 }
@@ -45,6 +42,12 @@
 .reveal section img {
 	margin: 20px;
 }
+.reveal h4 {
+	text-align: left;
+	font-family: 'Londrina Sketch', cursive;
+	font-size: 3em;
+}
+
 .reveal .reallyBig {
 	font-size: 15em;
 }
