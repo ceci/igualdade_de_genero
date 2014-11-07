@@ -32,6 +32,10 @@
 	margin-top: 1em;
 }
 
+.reveal .cover a {
+	color: #333;
+}
+
 .reveal .positive {
 	color: #22FF22;
 }
